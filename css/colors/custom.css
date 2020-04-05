@@ -5,10 +5,28 @@
 #share{background-color: #22181C;}
 .preloader {background-color: #fefefe;}
 .pace .pace-progress {background: #22181C;}
+
 body {
     color: #22181C;
     background: #fff;
 }
+
+/*Main sections*/
+#intro{ background: #fff; }
+#overview{
+    background: #f9f9f9;
+    border-top: 1px solid #eee;
+}
+#app-brief1{ background: #F2F2F2; }
+#app-brief2{ background: #fff; }
+#screenshots{ background: #fff; }
+#contact {
+    background: #fff;
+    text-align: center;
+}
+footer {background: #312F2F; }
+
+
 h1,h2,h3,h4,h5,h6 { color: #22181C; }
 .btn-new{
     background: #22181C;
@@ -24,21 +42,15 @@ h1,h2,h3,h4,h5,h6 { color: #22181C; }
 .navbar-nav li.active a,.navbar-nav li a:hover {
     color:#22181C;
 }
-#intro{ background: #fff; }
 
-#screenshots{
-    background: #fff;
-}
+
+
 .downloadNumber{
     background:#22181C;
     color: #fff;
 }
 .allinone_carousel.sweet .elementTitle{
     color: #888;
-}
-#overview{
-    background: #f9f9f9;
-    border-top: 1px solid #eee;
 }
 .bigIcon{
     color: #22181C;
@@ -50,19 +62,11 @@ h1,h2,h3,h4,h5,h6 { color: #22181C; }
 #share{
     background:url("../images/stars.png") no-repeat top left #22181C;
 }
-#app-brief1{
-    background: #F2F2F2;
-}
-#app-brief2{
-    background: #fff;
-}
+
 .subscription-form .input-box {
     background: #FFF;
 }
-#contact {
-    background: #fff;
-    text-align: center;
-}
+
 .form-control{
     color:#161616;
 }
@@ -85,7 +89,4 @@ footer p a,footer p a:hover,footer p a:focus {
 }
 .version:hover,.version:focus{
     color: #22181C;
-}
-#contact {
-    background: #fff;
 }
