@@ -12,7 +12,7 @@ body {
 }
 
 /*Main sections*/
-#intro{     background:url("../../images/background.jpg") no-repeat center #22181C; background-size:cover;}
+#intro{     background:url("../../images/background-1.jpg") no-repeat center #22181C; background-size:cover;}
 /*#intro{   background: #fff;   }*/
 #overview{
     background: #f9f9f9;
@@ -72,10 +72,10 @@ h1,h2,h3,h4,h5,h6 { color: #22181C; }
     color:#161616;
 }
 footer p{
-    color: #fff;
+    color: #dde7e3;
 }
 footer p a,footer p a:hover,footer p a:focus {
-    color: #fff;
+    color: #dde7e3;
 }
 .socialList li a{
     color: #fff;
