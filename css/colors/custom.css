@@ -7,31 +7,31 @@
 .pace .pace-progress {background: #22181C;}
 
 body {
-    color: #22181C;
+    color: #fff;
     background: #fff;
 }
 
 /*Main sections*/
-#intro{     background:url("../../images/background-1.jpg") no-repeat center #22181C; background-size:cover;}
+#intro{     background:url("../../images/background-2.jpg") no-repeat center #22181C; background-size:cover;}
 /*#intro{   background: #fff;   }*/
 #overview{
     background: #f9f9f9;
     border-top: 1px solid #eee;
 }
-#app-brief1{ background: #F2F2F2; }
-#app-brief2{ background: #fff; }
-#screenshots{ background: #fff; }
+#app-brief1{ background: #22181C; }
+#app-brief2{ background: #22181C; }
+#screenshots{ background: #22181C; }
 /*#screenshots{ background:url("../../images/background.jpg") no-repeat center #22181C; background-size:cover; }*/
 #contact {
-    background: #fff;
+    background: #22181C;
     text-align: center;
 }
 footer {background: #312F2F; }
 
 
-h1,h2,h3,h4,h5,h6 { color: #22181C; }
+h1,h2,h3,h4,h5,h6 { color: #fff; }
 .btn-new{
-    background: #22181C;
+    background: #fff;
     color: #fff;
 }
 .btn-new:hover,.btn-new:focus{
@@ -41,8 +41,8 @@ h1,h2,h3,h4,h5,h6 { color: #22181C; }
 .NavBg{
     background:rgba(255,255,255,0.9);
 }
-.navbar-nav li.active a,.navbar-nav li a:hover {
-    color:#22181C;
+.navbar-nav li.active a,.navbar-nav li a:hover, .navbar-nav li a {
+    color:#fff;
 }
 
 .downloadNumber{
