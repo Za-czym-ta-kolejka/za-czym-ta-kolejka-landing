@@ -1439,6 +1439,10 @@ body.no-scroll {
     border: none;
 }
 
+#header {
+    background: #fff;
+}
+
 .navbar-nav > li {
     padding-bottom: 0;
     margin-right: 20px;
@@ -2316,7 +2320,7 @@ ul.dropdown-menu li.menu-item-has-children > ul.dropdown-menu {
 }
 
 .bkg-img1 {
-    background-image: url('../img/pics/bkg-img1.jpg');  
+    background-image: url('../img/pics/background-waw.jpg');
 }
 .bkg-img2 {
     background-image: url('../img/pics/bkg-img2.jpg');  
