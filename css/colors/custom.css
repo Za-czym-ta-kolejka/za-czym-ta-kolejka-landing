@@ -13,6 +13,7 @@ body {
 
 /*Main sections*/
 #intro{     background:url("../../images/background.jpg") no-repeat center #22181C; background-size:cover;}
+/*#intro{   background: #fff;   }*/
 #overview{
     background: #f9f9f9;
     border-top: 1px solid #eee;
@@ -20,6 +21,7 @@ body {
 #app-brief1{ background: #F2F2F2; }
 #app-brief2{ background: #fff; }
 #screenshots{ background: #fff; }
+/*#screenshots{ background:url("../../images/background.jpg") no-repeat center #22181C; background-size:cover; }*/
 #contact {
     background: #fff;
     text-align: center;
