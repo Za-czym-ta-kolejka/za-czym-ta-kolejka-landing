@@ -12,7 +12,7 @@ body {
 }
 
 /*Main sections*/
-#intro{ background: #fff; }
+#intro{     background:url("../../images/background.jpg") no-repeat center #22181C; background-size:cover;}
 #overview{
     background: #f9f9f9;
     border-top: 1px solid #eee;
@@ -43,8 +43,6 @@ h1,h2,h3,h4,h5,h6 { color: #22181C; }
     color:#22181C;
 }
 
-
-
 .downloadNumber{
     background:#22181C;
     color: #fff;
@@ -60,7 +58,7 @@ h1,h2,h3,h4,h5,h6 { color: #22181C; }
     border: 1px solid #22181C;
 }
 #share{
-    background:url("../images/stars.png") no-repeat top left #22181C;
+    background:url("../../images/stars.png") no-repeat top left #22181C;
 }
 
 .subscription-form .input-box {
