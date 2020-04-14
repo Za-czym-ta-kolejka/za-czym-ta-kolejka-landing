@@ -1412,7 +1412,7 @@ body.no-scroll {
 }
 .logo svg,
 .logo img{
-    width: 78px;
+    width: 200px;
 }
 .main-nav .row{
     margin-bottom: 0;
@@ -1429,7 +1429,8 @@ body.no-scroll {
 }
 .header-transparent .main-nav{
     padding-bottom: 0;
-    margin-top: 17px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .navbar{
     min-height: 0;
@@ -1688,7 +1689,8 @@ ul.dropdown-menu li.menu-item-has-children > ul.dropdown-menu {
     cursor: not-allowed;
 }
 .header-transparent .navbar-header{
-    margin-top: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .navbar-header{
     padding-top: 0;
